@@ -352,6 +352,10 @@ img {
     .ba-width-large-4-5 {
         width: 80%;
     }
+
+    .ba-width-large-1-6 {
+        width: 16.667%;
+    }
 }
 
 @media (min-width: 1220px) {
